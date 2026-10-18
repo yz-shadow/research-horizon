@@ -1,0 +1,12 @@
+.venv/
+.idea/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.runtime/
+installers/*.zip
+!installers/ollama-windows-x64-vulkan.zip
+installers/*.part

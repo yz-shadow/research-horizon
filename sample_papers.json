@@ -1,0 +1,16 @@
+{
+  "notice": "合成演示数据，仅用于展示交互；论文和引文均为虚构。",
+  "papers": [
+    {"id": "demo-1", "title": "Clinical event extraction with transformers", "url": "", "published": "", "source": "合成演示数据", "text": "We apply transformer encoders to clinical event extraction on the Demo Clinical Notes dataset. The model identifies event triggers in clinical notes."},
+    {"id": "demo-2", "title": "Prompt learning for clinical event extraction", "url": "", "published": "", "source": "合成演示数据", "text": "Prompt learning is applied to clinical event extraction using the Demo Clinical Notes dataset. The approach studies limited labeled examples."},
+    {"id": "demo-3", "title": "Clinical relation extraction with graph networks", "url": "", "published": "", "source": "合成演示数据", "text": "We use graph neural networks for clinical relation extraction on the Demo Relation Set. The graph represents entity dependencies."},
+    {"id": "demo-4", "title": "Transformer models for clinical relation extraction", "url": "", "published": "", "source": "合成演示数据", "text": "Transformer encoders are evaluated for clinical relation extraction on the Demo Relation Set. The study compares contextual representations."}
+  ],
+  "claims": [
+    {"paper_id": "demo-1", "problem": "Clinical event extraction", "method": "Transformer encoders", "dataset": "Demo Clinical Notes", "quote": "We apply transformer encoders to clinical event extraction on the Demo Clinical Notes dataset."},
+    {"paper_id": "demo-2", "problem": "Clinical event extraction", "method": "Prompt learning", "dataset": "Demo Clinical Notes", "quote": "Prompt learning is applied to clinical event extraction using the Demo Clinical Notes dataset."},
+    {"paper_id": "demo-3", "problem": "Clinical relation extraction", "method": "Graph neural networks", "dataset": "Demo Relation Set", "quote": "We use graph neural networks for clinical relation extraction on the Demo Relation Set."},
+    {"paper_id": "demo-4", "problem": "Clinical relation extraction", "method": "Transformer encoders", "dataset": "Demo Relation Set", "quote": "Transformer encoders are evaluated for clinical relation extraction on the Demo Relation Set."}
+  ],
+  "mappings": {}
+}
